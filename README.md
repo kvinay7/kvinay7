@@ -1,7 +1,7 @@
 # Hi there👋, I'm Vinay Kumar
 
 ## 💫 About Me:
-I'm Application Development Associate at Accenture in India | Computer Science graduate with good understanding in Object-Oriented Programming, Data Structures & Algorithms, and Software Development | Eager to apply theoretical knowledge to real-world challenges, contribute to innovative projects, and continually expand skills in a dynamic professional setting.
+An Application Development Associate at Accenture in India. Computer Science graduate with good understanding in Object-Oriented Programming, Data Structures & Algorithms, and Software Development. Eager to apply theoretical knowledge to real-world challenges, contribute to innovative projects, and continually expand skills in a dynamic professional setting.
 
 
 ## 🌐 Socials:
